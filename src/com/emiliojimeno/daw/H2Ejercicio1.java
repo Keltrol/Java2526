@@ -2,7 +2,7 @@ package com.emiliojimeno.daw;
 
 import java.util.Scanner;
 
-public class H2Ejercicio2 {
+public class H2Ejercicio1 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
